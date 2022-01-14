@@ -9,7 +9,7 @@
 | SSD                    | Samsung MZVL2512HCJQ-00B00                                   |
 | WiFi                   | Intel® Wi-Fi 6 AX201 (Gig+)                                  |
 | Audio                  | Realtek ALC 287 with TigerLake Controller                    |
-| TouchPAD               | MSFT0001 With INT34C5 VoodooGPI0TigerLakeLP                  |
+| TouchPAD               | MSFT0001 With INT34C5                                        |
 | Thunderbolt            | Intel® JHL7540 Thunderbolt™ 3                                |
 
 
