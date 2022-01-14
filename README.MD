@@ -20,7 +20,7 @@
 ---
     - USB FIX：USBMap.kext
     - TouchPad：Add VoodooGPI0TigerLakeLP with INT34C5
-    - Audio：Xcode Compile ALC 287 with TigerLake Controller
+    - Audio：Xcode Compile ALC 287 with TigerLake Controller AppleALC.kext 1.6.8
     - Mouse：Add IntelBTPatcher To Support Bluetooth Device
     - HIDPI：Support 200% Zoom
     。。。。。。。
