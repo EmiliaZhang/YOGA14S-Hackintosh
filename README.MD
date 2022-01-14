@@ -6,7 +6,7 @@
 | CPU                    | 11th Gen intel Core I5-11300H                                |
 | GPU                    | Intel Iris XE Graphics + AMD Sapphire RX580(TB3)             |
 | RAM                    | Micron 16G LPDDR4 4267MHZ                                    |
-| SSD                    | Samsung MZVL2512HCJQ-OOBKS                                   |
+| SSD                    | Samsung MZVL2512HCJQ-00B00                                   |
 | WiFi                   | Intel® Wi-Fi 6 AX201 (Gig+)                                  |
 | Audio                  | Realtek ALC 287 with TigerLake Controller                    |
 | TouchPAD               | MSFT0001 With INT34C5 VoodooGPI0TigerLakeLP                  |
