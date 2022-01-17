@@ -4,8 +4,8 @@
 | ---------------------- | ------------------------------------------------------------ |
 | Model                  | Lenovo YOGA 14S 2021 IHU                                     |
 | CPU                    | 11th Gen intel Core I5-11300H                                |
-| GPU                    | Intel Iris Xe Graphics + AMD Sapphire RX580(TB3)             |
-| RAM                    | Micron 16G LPDDR4X 4267MHZ                                   |
+| GPU                    | Intel Iris Xe Graphics + AMD Sapphire RX580 (TB3)             |
+| RAM                    | Micron 16G LPDDR4X 4267MHZ    (4 Channel)                    |
 | SSD                    | Samsung MZVL2512HCJQ-00B00                                   |
 | WiFi                   | Intel® Wi-Fi 6 AX201 (Gig+)                                  |
 | Audio                  | Realtek ALC 287 Smart HD Controller                          |
